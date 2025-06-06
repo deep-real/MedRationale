@@ -1,3 +1,3 @@
-# "Why Is There a Tumor?": Safeguard Tumor Segmentation and Detection with Trustworthy Rationales
+# “Why Is There a Tumor?”: Tell Me the Reason, Show Me the Evidence
 
 Code coming soon.
