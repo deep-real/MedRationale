@@ -24,7 +24,7 @@ Our evaluations prove that data-driven explanations are susceptible to distribut
 However, acquiring the ground truth explanations for all samples or obtaining the one-to-one mapping between samples from different distributions are prohibitively expensive or even impossible in practice.
 To this end, we propose Distributionally Robust Explanation (DRE) that, inspired by self-supervised learning, leveraging the mixed explanation to provide supervisory signals for the learning of explanations.
 
-![method](figures/overview.pdf)
+![method](figures/overview.png)
 
 
 ## Evaluations
@@ -36,4 +36,4 @@ Comparison between OpenAI o1 and our model. Qualitatively, o1 provides only a te
 it might be wrong about critical concepts (highlighted in rad). In contrast, our model offers prediction rationales using
 clinical concepts supported by valid visual evidence. Quantitatively, o1 performs worse than random guessing in Tumor
 Classification, Location, and PI-RADS Score prediction, whereas our model achieves significantly higher accuracy.
-![evaluation](figures/OpenAI.pdf)
+![evaluation](figures/OpenAI.png)
