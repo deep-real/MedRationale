@@ -31,6 +31,6 @@ Zero-shot evaluation on datasets collected from various unseen locations
 
 ![evaluation](figures/evaluation_zeroshot.png)
 
-Comparison between OpenAI o1 and our model.
+### Comparison between OpenAI o1 and our mode
 
 ![evaluation](figures/OpenAI.png)
