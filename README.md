@@ -23,9 +23,12 @@ We developed a model for MRI Image Analysis that can justify the segmentation or
 
 
 ## Evaluations
-Quantitative results on the evaluation set and zero-shot evaluation on other datasets collected from various unseen locations
-
+### Quantitative results on the evaluation set
 ![evaluation](figures/evaluation_1.png)
+
+### Zero-shot evaluation
+Zero-shot evaluation on datasets collected from various unseen locations
+
 ![evaluation](figures/evaluation_zeroshot.png)
 
 Comparison between OpenAI o1 and our model.
