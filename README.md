@@ -8,11 +8,13 @@ This repository holds the Pytorch implementation of  [https://github.com/deep-re
 If you find our code useful in your research, please consider citing:
 
 ```
-@inproceedings{li2023dre,
- title={“Why Is There a Tumor?”: Tell Me the Reason, Show Me the Evidence},
- author={Ma, Mengmeng and Li, Tang and Peng, Yunxiang and Lin, Lu and Beylergil, Volkan and Zhao, Binsheng and Akin, Oguz and Peng, Xi},
- booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
- year={2025}
+@inproceedings{
+ma2025why,
+title={''Why Is There a Tumor?'': Tell Me the Reason, Show Me the Evidence},
+author={Mengmeng Ma and Tang Li and Yunxiang Peng and Lu Lin and Volkan Beylergil and Binsheng Zhao and Oguz Akin and Xi Peng},
+booktitle={Forty-second International Conference on Machine Learning},
+year={2025},
+url={https://openreview.net/forum?id=r3ZLefVUMO}
 }
 ```
 
